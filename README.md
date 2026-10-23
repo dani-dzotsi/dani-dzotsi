@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Daniel 👋
 
-<!--
-**dani-dzotsi/dani-dzotsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer | System architect | AI agentic workflow automation
 
-Here are some ideas to get you started:
+## What I work on
+- Backend systems with Python, FastAPI, PostgreSQL, and Go
+- Event-driven and async architectures
+- AI agent workflows (LangGraph, n8n)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+## Currently building
+- A multi-agent orchestration system with LangGraph
+- A double-entry ledger API in Go
+
+## Get in touch
+- LinkedIn: your-link
+- Email: your-email
